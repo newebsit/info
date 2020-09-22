@@ -1,0 +1,33 @@
+body{
+  background-color: thickgrey;
+}
+
+h1{
+  font-weight: bolder;
+  font-size: 100px;
+  color: green;
+  font-style: italic;
+  padding:5% 18%;
+
+}
+
+.container{
+  text-align: center;
+}
+
+.row{
+  font-style: italic;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+
+footer{
+  padding: 5% 7%;
+  text-align: center;
+}
+
+.dicee{
+  text-align: center;
+}
